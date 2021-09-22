@@ -1,2 +1,5 @@
-# Repository-Hippchip
-about me
+- 👋 Hi, I’m @hippchip
+- 👀 I’m interested in Crypto
+- 🌱 I’m currently learning about compounding on Avalanche
+- 💞️ I’m looking to collaborate on using Coin98 wallet and AVAX Bridge
+- 💞️ I’m looking to collaborate on using snowball to compound with Trader JOE
